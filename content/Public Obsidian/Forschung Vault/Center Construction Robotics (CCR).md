@@ -1,6 +1,6 @@
 --- 
 title: "Center Construction Robotics"
-enableToc: flase
+enableToc: false
 ---
 
 https://construction-robotics.de/
@@ -14,11 +14,11 @@ Das Center Construction Robotics schließt die digitale Kette im Bauwesen von de
 - [[Werkzeugmaschinenlabors (WZL)]]
 
 ### Mitglieder ( #CCRPartner)
-#### Preimum Mitglieder
+### Preimum Mitglieder
 - [[PORR AG]]
 - [[Liebherr]]
 - [[Hilti]]
-#### Basis Mitglieder 
+### Basis Mitglieder 
 - [[Eiffage]]
 - [[Saint Gobain]]
 - [[Kuka]]
