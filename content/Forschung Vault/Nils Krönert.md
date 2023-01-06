@@ -1,1 +1,0 @@
-BIM Innovation Manager bei [[Hilti]]
