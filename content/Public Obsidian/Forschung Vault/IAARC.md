@@ -1,1 +1,0 @@
- [International Association for Automation and Robotics in Construction (IAARC):](http://www.iaarc.org/) Member

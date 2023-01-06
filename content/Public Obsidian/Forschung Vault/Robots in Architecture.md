@@ -1,3 +1,0 @@
-Projekt: Arbeitssicherheit Videogame 
-
-#CCRPartner 

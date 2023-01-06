@@ -1,1 +1,0 @@
-Lehrstuhlinhaber des [[Lehrstuhl Fertigungsmesstechnik]]

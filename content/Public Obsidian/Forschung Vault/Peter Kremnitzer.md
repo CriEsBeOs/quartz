@@ -1,1 +1,0 @@
-Wissensmanagement bei [[PORR AG]]
